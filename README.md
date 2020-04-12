@@ -6,7 +6,7 @@ These are some of my experiments with generative drawing. All of them are made w
 
 <p align="center"><img src="Files/20191223-232809.png?raw=true" width="70%"></p>
 
-<p align="center"><img src="Files/20191223-205229.png?raw=true" width="70%"></p>
+<p align="center"><img src="Files/20191223-210239.png?raw=true" width="70%"></p>
 
 <p align="center"><img src="Files/4200.png?raw=true"></p>
 
