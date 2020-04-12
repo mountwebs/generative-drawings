@@ -18,4 +18,4 @@ These are some of my experiments with generative drawing. All of them are made w
 
 <p align="center"><img src="Files/20200216_001223_flow_1191.png?raw=true"></p>
 
-<p align="center">(^ The three above are based on The Coding Train's videoes on flow fields.)</p>
+<p align="center">(^ The three above are inspired by The Coding Train's videoes on flow fields.)</p>
