@@ -1,6 +1,6 @@
 # Generative drawings
 
-These are some of my experiments with generative drawing. All of them are made with Python. Most with Pillow, a few with processing.
+These are some of my experiments with generative drawing. All of them are made with Python. Most with [Pillow](https://github.com/python-pillow/Pillow), a few with [processing](https://processing.org/).
 
 <p align="center"><img src="Files/sine2.png?raw=true" width="65%"></p>
 
