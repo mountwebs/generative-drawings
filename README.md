@@ -15,7 +15,7 @@ These are some of my experiments with generative drawing. All of them are made w
 <br><br>
 <img src="Files/flowfields.gif?raw=true">
 <br>
-<a href="src/perlinColor.pyde">(Source (for Python in Processing))</a>
+<a href="src/perlin-color.pyde">(Source (for Python in Processing))</a>
 </p>
 
 <p align="center"><img src="Files/20200215_223654_flow_0810.png?raw=true"></p>
